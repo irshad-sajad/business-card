@@ -5,6 +5,12 @@ This project was created as a practice exercise to design a minimal, clean profi
 
 ---
 
+## 🌐 Live Site
+
+🔗 [View Live](https://hilarious-beignet-4e7609.netlify.app/)
+
+---
+
 ## ✨ Features
 
 - 💼 Minimal, clean profile card design
